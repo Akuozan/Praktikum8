@@ -2,6 +2,8 @@
 Nama :Fauzan Giri Wardana <P>
 nim  :312410535 <p>
 kelas:TI 24 A5 <p>
+# DIAGRAM CLASS
+
 # FLOWCHART 
 ![Flow Prakt8](https://github.com/user-attachments/assets/3260ac22-170b-412a-b377-bde44628b004)
 
