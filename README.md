@@ -52,6 +52,13 @@ Proses: Menggunakan list comprehension untuk membuat list baru yang hanya berisi
 Fungsi: Metode ini digunakan untuk mengubah nilai mahasiswa berdasarkan nama.
 Proses: Melakukan iterasi pada daftar_mahasiswa untuk mencari mahasiswa dengan nama yang sesuai. Jika ditemukan, nilai mahasiswa diubah dan pesan konfirmasi ditampilkan. Jika tidak ditemukan, pesan yang sesuai ditampilkan.
 
+# HASIL PROGRAM
+
+<img width="421" alt="Hasil Program1" src="https://github.com/user-attachments/assets/6e7b2deb-ed26-4aab-ada7-0c89bce701fe">
+<img width="302" alt="Hasil Program2" src="https://github.com/user-attachments/assets/f21f8350-a98f-40c7-92d4-f471e8336b37">
+
+
+
 
 
 
