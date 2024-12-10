@@ -4,6 +4,8 @@ nim  :312410535 <p>
 kelas:TI 24 A5 <p>
 # DIAGRAM CLASS
 
+![Diagram class](https://github.com/user-attachments/assets/208952e6-8aab-4347-a43a-92e71bdb3497)
+
 # FLOWCHART 
 ![Flow Prakt8](https://github.com/user-attachments/assets/3260ac22-170b-412a-b377-bde44628b004)
 
